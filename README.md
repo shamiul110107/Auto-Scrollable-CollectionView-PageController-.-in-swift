@@ -1,0 +1,1 @@
+# Auto-Scrollable-CollectionView-PageController-.-in-swift
